@@ -23,5 +23,10 @@ public class MySecondProject {
 
         System.out.println("2 + 2 = " + 2 + 2);
         System.out.println("2 + 2 = " + (2 + 2));
+
+        System.out.println("Площадь квадрата со стороной " + 8 + " = " + (8 * 8));
+
+        int l = 8;
+        System.out.println("Площадь квадрата со стороной " + l + " = " + (l * l));
     }
 }
