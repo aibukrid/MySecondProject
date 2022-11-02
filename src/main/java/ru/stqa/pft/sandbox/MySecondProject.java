@@ -2,7 +2,8 @@ package ru.stqa.pft.sandbox;
 
 public class MySecondProject {
     public static void main(String[] args) {
-        System.out.println("Hello Radik!");
+        String somebody = "Radik";
+        System.out.println("Hello " + somebody + "!");
 
         double l = 8.0;
         double s = l * l;
