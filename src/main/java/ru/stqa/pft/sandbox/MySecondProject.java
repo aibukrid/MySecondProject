@@ -28,6 +28,6 @@ public class MySecondProject {
 
         int l = 8;
         int s = l * l;
-        System.out.println("Площадь квадрата со стороной " + l + " = " + s);
+        System.out.println("Площадь квадрата со стороной " + l + " = " + (l * l));
     }
 }
