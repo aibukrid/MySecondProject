@@ -6,8 +6,8 @@ public class MySecondProject {
 
         System.out.println("Площадь квадрата со стороной " + 8 + " = " + (8 * 8));
 
-        int l = 8;
-        int s = l * l;
+        double l = 8.0;
+        double s = l * l;
         System.out.println("Площадь квадрата со стороной " + l + " = " + (l * l));
     }
 }
