@@ -13,9 +13,11 @@ public class MySecondProject {
         Rectangle r = new Rectangle(4, 6);
         System.out.println("Площадь прямоугольника со сторонами " + r.a + " и " + r.b + " = " + r.area());
 
+        Tree t = new Tree(18, 100, 20, 60);
+        System.out.println("Высота дерева" + " = " + t.height());
+
      }
     public static void hello(String somebody) {
         System.out.println("Hello " + somebody + "!");
     }
-
 }
